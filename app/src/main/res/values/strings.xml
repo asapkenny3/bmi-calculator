@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI CALCULATOR</string>
+    <string
+        name="HNG_INTERNSHIP"><a href="https://hng.tech/">click_here</a></string>
+    <string
+        name="Ingressive_for_Good"><a href="https://ingressive.org/">click_here</a></string>
+    <string
+        name="ZURI_INTERNSHIP"><a href="https://internship.zuri.team/">click_here</a></string>
+</resources>
